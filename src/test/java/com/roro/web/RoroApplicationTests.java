@@ -1,4 +1,4 @@
-package com.example.roro;
+package com.roro.web;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

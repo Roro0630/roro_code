@@ -1,4 +1,4 @@
-package com.example.roro;
+package com.roro.web;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
